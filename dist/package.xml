@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>logo</members>
-        <members>logo1</members>
-        <name>ContentAsset</name>
-    </types>
-    <types>
         <members>Offsite</members>
         <name>CustomApplication</name>
     </types>
     <types>
-        <members>Welcome</members>
-        <name>CustomTab</name>
+        <members>logo</members>
+        <members>logo1</members>
+        <name>ContentAsset</name>
     </types>
     <types>
         <members>Offsite_UtilityBar</members>
@@ -29,6 +25,10 @@
     <types>
         <members>Admin</members>
         <name>Profile</name>
+    </types>
+    <types>
+        <members>Welcome</members>
+        <name>CustomTab</name>
     </types>
     <version>52.0</version>
 </Package>
